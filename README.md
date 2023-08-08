@@ -19,4 +19,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PROGRAMADORTAVINHO&show_icons=true&locale=en&theme=dark" alt="PROGRAMADORTAVINHO" /></p>
 
-![Snake animation](https://github.com/PROGRAMADORTAVINHO/PROGRAMADORTAVINHO/blob/main/.github/workflows/cobrinha.yml)
+## Watch snake eating my github contributions
+
+![snake gif](https://github.com/PROGRAMADORTAVINHO/PROGRAMADORTAVINHO/blob/output/github-contribution-grid-snake.gif)
