@@ -18,7 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PROGRAMADORTAVINHO&show_icons=true&locale=en&layout=compact&theme=dark" alt="PROGRAMADORTAVINHO" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PROGRAMADORTAVINHO&show_icons=true&locale=en&theme=dark" alt="PROGRAMADORTAVINHO" /></p>
-
-## Watch snake eating my github contributions
-
-![snake gif](https://github.com/PROGRAMADORTAVINHO/PROGRAMADORTAVINHO/blob/output/github-contribution-grid-snake.gif)
